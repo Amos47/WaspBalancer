@@ -1,0 +1,490 @@
+1: Running 30s test @ http://localhost:8021/page8.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   872.71ms  339.33ms   1.59s    72.86%
+    Req/Sec    40.14     23.76    90.00     66.25%
+  1229 requests in 30.00s, 506.26MB read
+  Socket errors: connect 0, read 0, write 0, timeout 4
+Requests/sec:     40.96
+Transfer/sec:     16.87MB
+
+2: Running 30s test @ http://localhost:8021/page22.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   828.88ms  266.73ms   1.57s    71.43%
+    Req/Sec    36.34     13.61    80.00     71.43%
+  1122 requests in 30.00s, 462.39MB read
+  Socket errors: connect 0, read 0, write 0, timeout 8
+Requests/sec:     37.40
+Transfer/sec:     15.41MB
+
+3: Running 30s test @ http://localhost:8021/page7.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   814.05ms  258.53ms   1.51s    69.80%
+    Req/Sec    36.80     10.45    79.00     77.14%
+  1126 requests in 30.00s, 463.78MB read
+  Socket errors: connect 0, read 0, write 0, timeout 10
+Requests/sec:     37.53
+Transfer/sec:     15.46MB
+
+6: Running 30s test @ http://localhost:8021/page7.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   817.28ms  263.56ms   1.62s    70.19%
+    Req/Sec    37.09     10.00    54.00     60.87%
+  1088 requests in 30.00s, 448.01MB read
+  Socket errors: connect 0, read 0, write 0, timeout 9
+Requests/sec:     36.27
+Transfer/sec:     14.93MB
+
+5: Running 30s test @ http://localhost:8021/page19.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   817.57ms  255.81ms   1.62s    71.01%
+    Req/Sec    35.71     12.10    64.00     70.59%
+  1086 requests in 30.01s, 447.19MB read
+  Socket errors: connect 0, read 0, write 0, timeout 10
+Requests/sec:     36.19
+Transfer/sec:     14.90MB
+
+4: Running 30s test @ http://localhost:8021/page3.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   788.20ms  241.64ms   1.52s    68.57%
+    Req/Sec    37.23     10.61    78.00     80.00%
+  1143 requests in 30.01s, 470.66MB read
+  Socket errors: connect 0, read 0, write 0, timeout 7
+Requests/sec:     38.09
+Transfer/sec:     15.68MB
+
+7: Running 30s test @ http://localhost:8021/page16.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   827.77ms  229.72ms   1.50s    70.00%
+    Req/Sec    36.90      8.12    51.00     76.67%
+  1100 requests in 30.00s, 452.95MB read
+  Socket errors: connect 0, read 0, write 0, timeout 11
+Requests/sec:     36.66
+Transfer/sec:     15.10MB
+
+8: Running 30s test @ http://localhost:8021/page18.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   814.17ms  233.83ms   1.51s    68.97%
+    Req/Sec    36.07     10.34    55.00     68.97%
+  1080 requests in 30.00s, 444.72MB read
+  Socket errors: connect 0, read 0, write 0, timeout 7
+Requests/sec:     35.99
+Transfer/sec:     14.82MB
+
+9: Running 30s test @ http://localhost:8021/page16.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   905.51ms  199.79ms   1.31s    63.59%
+    Req/Sec    34.48      6.25    52.00     70.97%
+  1050 requests in 30.00s, 432.36MB read
+Requests/sec:     34.99
+Transfer/sec:     14.41MB
+
+10: Running 30s test @ http://localhost:8021/page23.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   887.81ms  192.20ms   1.31s    66.19%
+    Req/Sec    34.80      7.95    66.00     83.33%
+  1050 requests in 30.00s, 432.36MB read
+Requests/sec:     35.00
+Transfer/sec:     14.41MB
+
+12: Running 30s test @ http://localhost:8021/page24.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   893.69ms  204.32ms   1.32s    63.03%
+    Req/Sec    33.59      4.99    43.00     58.82%
+  1003 requests in 30.00s, 413.23MB read
+Requests/sec:     33.44
+Transfer/sec:     13.78MB
+
+11: Running 30s test @ http://localhost:8021/page19.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   903.05ms  212.59ms   1.35s    61.11%
+    Req/Sec    34.56      5.81    41.00     77.78%
+  1051 requests in 30.01s, 432.78MB read
+Requests/sec:     35.03
+Transfer/sec:     14.42MB
+
+16: Running 30s test @ http://localhost:8021/page12.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   932.62ms  208.25ms   1.40s    67.23%
+    Req/Sec    33.12      6.16    40.00     76.47%
+  1027 requests in 30.00s, 423.14MB read
+Requests/sec:     34.23
+Transfer/sec:     14.10MB
+
+15: Running 30s test @ http://localhost:8021/page4.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   898.11ms  204.52ms   1.43s    67.00%
+    Req/Sec    34.76      9.73    54.00     68.97%
+  1044 requests in 30.01s, 429.89MB read
+  Socket errors: connect 0, read 0, write 0, timeout 7
+Requests/sec:     34.79
+Transfer/sec:     14.33MB
+
+13: Running 30s test @ http://localhost:8021/page8.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   933.58ms  185.68ms   1.33s    70.48%
+    Req/Sec    32.87      6.13    41.00     80.00%
+  1024 requests in 30.01s, 421.66MB read
+Requests/sec:     34.13
+Transfer/sec:     14.05MB
+
+14: Running 30s test @ http://localhost:8021/page16.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   902.17ms  196.93ms   1.39s    63.81%
+    Req/Sec    33.67      7.07    44.00     73.33%
+  1049 requests in 30.01s, 431.95MB read
+Requests/sec:     34.95
+Transfer/sec:     14.39MB
+
+21: Running 30s test @ http://localhost:8021/page22.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   969.47ms  219.13ms   1.46s    69.75%
+    Req/Sec    32.82      6.13    40.00     64.71%
+  972 requests in 30.00s, 400.25MB read
+  Socket errors: connect 0, read 0, write 0, timeout 6
+Requests/sec:     32.40
+Transfer/sec:     13.34MB
+
+22: Running 30s test @ http://localhost:8021/page20.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   974.24ms  205.62ms   1.52s    70.48%
+    Req/Sec    31.27      6.51    42.00     60.00%
+  949 requests in 30.00s, 390.78MB read
+  Socket errors: connect 0, read 0, write 0, timeout 11
+Requests/sec:     31.63
+Transfer/sec:     13.02MB
+
+17: Running 30s test @ http://localhost:8021/page6.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   930.15ms  200.41ms   1.41s    64.94%
+    Req/Sec    28.82      9.28    39.00     72.73%
+  870 requests in 30.00s, 358.24MB read
+  Socket errors: connect 0, read 0, write 0, timeout 52
+Requests/sec:     29.00
+Transfer/sec:     11.94MB
+
+18: Running 30s test @ http://localhost:8021/page25.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   993.75ms  217.22ms   1.53s    71.43%
+    Req/Sec    28.45      9.77    40.00     81.82%
+  869 requests in 30.00s, 357.83MB read
+  Socket errors: connect 0, read 0, write 0, timeout 47
+Requests/sec:     28.96
+Transfer/sec:     11.93MB
+
+19: Running 30s test @ http://localhost:8021/page1.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   977.69ms  190.16ms   1.46s    70.00%
+    Req/Sec    30.90      5.92    41.00     60.00%
+  936 requests in 30.00s, 385.42MB read
+  Socket errors: connect 0, read 0, write 0, timeout 8
+Requests/sec:     31.20
+Transfer/sec:     12.85MB
+
+20: Running 30s test @ http://localhost:8021/page1.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   963.34ms  201.09ms   1.45s    65.71%
+    Req/Sec    30.30      5.29    38.00     70.00%
+  923 requests in 30.00s, 380.07MB read
+  Socket errors: connect 0, read 0, write 0, timeout 8
+Requests/sec:     30.76
+Transfer/sec:     12.67MB
+
+23: Running 30s test @ http://localhost:8021/page15.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   977.56ms  201.11ms   1.72s    66.67%
+    Req/Sec    32.00      4.99    41.00     50.00%
+  972 requests in 30.00s, 400.25MB read
+  Socket errors: connect 0, read 0, write 0, timeout 4
+Requests/sec:     32.40
+Transfer/sec:     13.34MB
+
+24: Running 30s test @ http://localhost:8021/page23.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   970.26ms  205.61ms   1.70s    69.05%
+    Req/Sec    31.08      5.23    40.00     75.00%
+  953 requests in 30.00s, 392.42MB read
+  Socket errors: connect 0, read 0, write 0, timeout 9
+Requests/sec:     31.76
+Transfer/sec:     13.08MB
+
+25: Running 30s test @ http://localhost:8021/page10.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   847.49ms  339.35ms   1.60s    73.64%
+    Req/Sec    34.17     20.42    79.00     60.56%
+  1024 requests in 30.00s, 422.04MB read
+  Socket errors: connect 0, read 0, write 0, timeout 12
+Requests/sec:     34.13
+Transfer/sec:     14.07MB
+
+27: Running 30s test @ http://localhost:8021/page10.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   784.11ms  231.07ms   1.51s    69.05%
+    Req/Sec    34.28      9.69    58.00     63.89%
+  1067 requests in 30.01s, 439.36MB read
+  Socket errors: connect 0, read 0, write 0, timeout 28
+Requests/sec:     35.56
+Transfer/sec:     14.64MB
+
+28: Running 30s test @ http://localhost:8021/page15.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   781.00ms  222.12ms   1.37s    62.95%
+    Req/Sec    34.19      8.87    60.00     78.12%
+  1059 requests in 30.01s, 436.07MB read
+  Socket errors: connect 0, read 0, write 0, timeout 36
+Requests/sec:     35.29
+Transfer/sec:     14.53MB
+
+29: Running 30s test @ http://localhost:8021/page15.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   795.74ms  227.72ms   1.59s    74.11%
+    Req/Sec    33.47      8.08    52.00     65.62%
+  1028 requests in 30.01s, 423.62MB read
+  Socket errors: connect 0, read 0, write 0, timeout 26
+Requests/sec:     34.25
+Transfer/sec:     14.12MB
+
+32: Running 30s test @ http://localhost:8021/page10.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   770.93ms  238.51ms   1.45s    67.10%
+    Req/Sec    34.27      8.79    61.00     72.73%
+  1054 requests in 30.00s, 434.75MB read
+  Socket errors: connect 0, read 0, write 0, timeout 22
+Requests/sec:     35.13
+Transfer/sec:     14.49MB
+
+26: Running 30s test @ http://localhost:8021/page20.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   794.51ms  219.07ms   1.42s    68.57%
+    Req/Sec    33.52      7.67    45.00     64.00%
+  1035 requests in 30.00s, 426.19MB read
+  Socket errors: connect 0, read 0, write 0, timeout 11
+Requests/sec:     34.50
+Transfer/sec:     14.20MB
+
+30: Running 30s test @ http://localhost:8021/page5.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   789.92ms  238.03ms   1.42s    64.29%
+    Req/Sec    34.71      5.53    44.00     64.29%
+  1025 requests in 30.01s, 422.07MB read
+  Socket errors: connect 0, read 0, write 0, timeout 24
+Requests/sec:     34.16
+Transfer/sec:     14.07MB
+
+31: Running 30s test @ http://localhost:8021/page15.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   803.30ms  212.83ms   1.43s    64.76%
+    Req/Sec    31.80      4.52    39.00     73.33%
+  946 requests in 30.01s, 389.54MB read
+  Socket errors: connect 0, read 0, write 0, timeout 34
+Requests/sec:     31.52
+Transfer/sec:     12.98MB
+
+33: Running 30s test @ http://localhost:8021/page14.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   947.00ms  216.60ms   1.48s    69.39%
+    Req/Sec    32.07      3.89    40.00     71.43%
+  956 requests in 30.00s, 393.66MB read
+  Socket errors: connect 0, read 0, write 0, timeout 4
+Requests/sec:     31.87
+Transfer/sec:     13.12MB
+
+34: Running 30s test @ http://localhost:8021/page17.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   917.53ms  217.58ms   1.42s    67.14%
+    Req/Sec    32.20      3.85    39.00     70.00%
+  960 requests in 30.01s, 395.30MB read
+  Socket errors: connect 0, read 0, write 0, timeout 6
+Requests/sec:     31.99
+Transfer/sec:     13.17MB
+
+35: Running 30s test @ http://localhost:8021/page14.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   910.76ms  222.24ms   1.41s    68.57%
+    Req/Sec    30.80      3.36    39.00     80.00%
+  936 requests in 30.00s, 385.67MB read
+  Socket errors: connect 0, read 0, write 0, timeout 7
+Requests/sec:     31.20
+Transfer/sec:     12.86MB
+
+36: Running 30s test @ http://localhost:8021/page14.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   947.30ms  211.12ms   1.39s    61.43%
+    Req/Sec    31.50      4.55    41.00     80.00%
+  958 requests in 30.00s, 394.48MB read
+  Socket errors: connect 0, read 0, write 0, timeout 15
+Requests/sec:     31.94
+Transfer/sec:     13.15MB
+
+38: Running 30s test @ http://localhost:8021/page18.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   917.71ms  217.57ms   1.51s    67.35%
+    Req/Sec    31.43      6.27    40.00     50.00%
+  975 requests in 30.00s, 401.48MB read
+  Socket errors: connect 0, read 0, write 0, timeout 7
+Requests/sec:     32.50
+Transfer/sec:     13.38MB
+
+39: Running 30s test @ http://localhost:8021/page25.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   901.82ms  225.70ms   1.40s    64.76%
+    Req/Sec    31.67      5.00    39.00     60.00%
+  978 requests in 30.01s, 402.72MB read
+  Socket errors: connect 0, read 0, write 0, timeout 5
+Requests/sec:     32.59
+Transfer/sec:     13.42MB
+
+40: Running 30s test @ http://localhost:8021/page3.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   913.28ms  194.86ms   1.49s    66.07%
+    Req/Sec    32.50      6.37    41.00     62.50%
+  996 requests in 30.01s, 410.13MB read
+  Socket errors: connect 0, read 0, write 0, timeout 5
+Requests/sec:     33.19
+Transfer/sec:     13.67MB
+
+37: Running 30s test @ http://localhost:8021/page14.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   936.37ms  213.84ms   1.62s    68.57%
+    Req/Sec    32.80      9.03    66.00     76.67%
+  988 requests in 30.01s, 406.83MB read
+  Socket errors: connect 0, read 0, write 0, timeout 12
+Requests/sec:     32.93
+Transfer/sec:     13.56MB
+
+41: Running 30s test @ http://localhost:8021/page7.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   880.57ms  207.44ms   1.50s    68.91%
+    Req/Sec    31.76      5.56    41.00     82.35%
+  970 requests in 30.00s, 399.42MB read
+  Socket errors: connect 0, read 0, write 0, timeout 23
+Requests/sec:     32.33
+Transfer/sec:     13.31MB
+
+42: Running 30s test @ http://localhost:8021/page9.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   869.33ms  202.35ms   1.25s    67.46%
+    Req/Sec    30.83      5.76    44.00     72.22%
+  942 requests in 30.00s, 387.89MB read
+  Socket errors: connect 0, read 0, write 0, timeout 34
+Requests/sec:     31.40
+Transfer/sec:     12.93MB
+
+43: Running 30s test @ http://localhost:8021/page23.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   866.94ms  195.25ms   1.45s    65.18%
+    Req/Sec    33.25      5.21    43.00     75.00%
+  981 requests in 30.00s, 403.95MB read
+  Socket errors: connect 0, read 0, write 0, timeout 16
+Requests/sec:     32.70
+Transfer/sec:     13.46MB
+
+44: Running 30s test @ http://localhost:8021/page19.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   871.06ms  191.88ms   1.50s    63.91%
+    Req/Sec    32.42      6.74    44.00     63.16%
+  998 requests in 30.00s, 410.95MB read
+  Socket errors: connect 0, read 0, write 0, timeout 20
+Requests/sec:     33.26
+Transfer/sec:     13.70MB
+
+45: Running 30s test @ http://localhost:8021/page12.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   880.02ms  206.93ms   1.29s    66.67%
+    Req/Sec    32.17      3.59    37.00     50.00%
+  968 requests in 30.00s, 398.60MB read
+  Socket errors: connect 0, read 0, write 0, timeout 20
+Requests/sec:     32.26
+Transfer/sec:     13.29MB
+
+46: Running 30s test @ http://localhost:8021/page21.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   876.85ms  215.01ms   1.43s    65.87%
+    Req/Sec    33.17      3.81    41.00     66.67%
+  1010 requests in 30.00s, 416.11MB read
+  Socket errors: connect 0, read 0, write 0, timeout 12
+Requests/sec:     33.66
+Transfer/sec:     13.87MB
+
+47: Running 30s test @ http://localhost:8021/page21.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   870.61ms  216.45ms   1.46s    71.43%
+    Req/Sec    32.17      4.97    40.00     75.00%
+  966 requests in 30.00s, 398.02MB read
+  Socket errors: connect 0, read 0, write 0, timeout 17
+Requests/sec:     32.20
+Transfer/sec:     13.27MB
+
+48: Running 30s test @ http://localhost:8021/page5.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   862.14ms  231.96ms   1.42s    72.11%
+    Req/Sec    36.76     19.25   109.00     95.24%
+  1126 requests in 30.00s, 463.66MB read
+  Socket errors: connect 0, read 0, write 0, timeout 16
+Requests/sec:     37.53
+Transfer/sec:     15.45MB
+
+49: Running 30s test @ http://localhost:8021/page21.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   233.95ms   99.84ms 581.77ms   68.57%
+    Req/Sec   141.67     24.43   177.00     80.00%
+  4165 requests in 30.00s, 1.68GB read
+Requests/sec:    138.83
+Transfer/sec:     57.22MB
+
+50: Running 30s test @ http://localhost:8021/page3.html
+  1 threads and 33 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   237.17ms  106.40ms 623.63ms   71.43%
+    Req/Sec   141.69     22.06   167.00     75.00%
+  4188 requests in 30.00s, 1.69GB read
+Requests/sec:    139.59
+Transfer/sec:     57.51MB
